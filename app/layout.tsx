@@ -10,7 +10,7 @@ const body = Tajawal({ subsets: ["arabic"], weight: ["300", "400", "500", "700"]
 
 export const metadata: Metadata = {
   title: "دعوة فرح آدم وليلى",
-  description: "عزومة فرح إلكترونية من القلب",
+  description: "عزومة فرح",
 };
 export const viewport: Viewport = { themeColor: "#F4F1EB" };
 
